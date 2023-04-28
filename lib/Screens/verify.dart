@@ -28,6 +28,10 @@ class _OTPVerifyState extends State<OTPVerify> {
     );
     
     final focusedPinTheme = defalutPinTheme.copyDecorationWith(
+<<<<<<< HEAD
+=======
+      gradient: LinearGradient(colors:[Colors.deepOrange,Colors.lightBlueAccent]),
+>>>>>>> 85fa145 (finish)
       border: Border.all(color: Colors.yellowAccent),
       borderRadius: BorderRadius.circular(20));
     

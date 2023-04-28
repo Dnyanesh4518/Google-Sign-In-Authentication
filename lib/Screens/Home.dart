@@ -2,7 +2,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:sign_in_with_google/Screens/GoogleSignIn.dart';
 import 'package:sign_in_with_google/Screens/login.dart';
-import 'package:razorpay_flutter/razorpay_flutter.dart';
 import '../Authentication/AuthServices.dart';
 class Home extends StatefulWidget {
 
