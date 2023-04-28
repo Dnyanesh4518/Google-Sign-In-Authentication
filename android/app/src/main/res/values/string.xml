@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="facebook_app_id">538901511418241</string>
+    <string name="fb_login_protocol_scheme">fb538901511418241</string>
+    <string name="facebook_client_token">0cb9e95963b342f52a7b31ec668f734b</string>
+</resources>
